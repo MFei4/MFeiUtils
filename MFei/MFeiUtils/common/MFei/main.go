@@ -6,7 +6,6 @@ import (
 )
 
 var (
-	DB       *gorm.DB
-	LOGGER   *zap.SugaredLogger
-	MySecret []byte
+	DB     *gorm.DB
+	LOGGER *zap.SugaredLogger
 )

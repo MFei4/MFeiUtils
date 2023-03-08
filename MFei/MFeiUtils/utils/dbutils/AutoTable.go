@@ -1,7 +1,7 @@
 package dbutils
 
 import (
-	"MFeiUtils/common/MFei"
+	"github.com/MFei/MFeiUtils/common/MFei"
 	"reflect"
 )
 

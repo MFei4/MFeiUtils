@@ -1,9 +1,9 @@
 package dbutils
 
 import (
-	"MFeiUtils/common/MFei"
-	"MFeiUtils/config/conf"
 	"fmt"
+	"github.com/MFei/MFeiUtils/common/MFei"
+	"github.com/MFei/MFeiUtils/config/conf"
 	"github.com/cengsin/oracle"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"

@@ -1,8 +1,8 @@
 package websocket
 
 import (
-	"MFeiUtils/common/MFei"
 	"encoding/json"
+	"github.com/MFei/MFeiUtils/common/MFei"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

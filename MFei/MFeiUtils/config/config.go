@@ -1,7 +1,7 @@
 package config
 
 import (
-	"MFeiUtils/config/conf"
+	"github.com/MFei/MFeiUtils/config/conf"
 )
 
 type Config struct {

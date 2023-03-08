@@ -1,7 +1,7 @@
 package cryption
 
 import (
-	"MFeiUtils/common/MFei"
+	"github.com/MFei/MFeiUtils/common/MFei"
 	"golang.org/x/crypto/bcrypt"
 )
 
