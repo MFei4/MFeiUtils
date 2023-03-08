@@ -1,8 +1,8 @@
 package boot
 
 import (
-	"github.com/MFei/MFeiUtils/utils"
-	"github.com/MFei/MFeiUtils/utils/dbutils"
+	"github.com/mfei/mfeiutils/utils"
+	"github.com/mfei/mfeiutils/utils/dbutils"
 	"golang.org/x/exp/slog"
 )
 

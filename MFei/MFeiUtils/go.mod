@@ -1,7 +1,6 @@
-module github.com/MFei4/MFeiUtils
+module github.com/mfei/mfeiutils
 
 go 1.19
-
 require (
 	github.com/cengsin/oracle v1.0.0
 	github.com/fsnotify/fsnotify v1.6.0

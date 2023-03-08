@@ -1,9 +1,9 @@
 package dbutils
 
 import (
-	"github.com/MFei/MFeiUtils/common/MFei"
-	"github.com/MFei/MFeiUtils/common/sun"
-	"github.com/MFei/MFeiUtils/utils/dbutils/redisUtil"
+	"github.com/mfei/mfeiutils/common/MFei"
+	"github.com/mfei/mfeiutils/common/sun"
+	"github.com/mfei/mfeiutils/utils/dbutils/redisUtil"
 )
 
 // GetDB 开放给外部获得db连接

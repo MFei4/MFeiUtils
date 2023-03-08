@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"github.com/MFei/MFeiUtils/common/MFei"
-	"github.com/MFei/MFeiUtils/config/conf"
+	"github.com/mfei/mfeiutils/common/MFei"
+	"github.com/mfei/mfeiutils/config/conf"
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

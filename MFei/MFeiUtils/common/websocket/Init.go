@@ -2,7 +2,7 @@ package websocket
 
 import (
 	"encoding/json"
-	"github.com/MFei/MFeiUtils/common/MFei"
+	"github.com/mfei/mfeiutils/common/MFei"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

@@ -1,9 +1,9 @@
 package redisUtil
 
 import (
-	"github.com/MFei/MFeiUtils/common/MFei"
-	"github.com/MFei/MFeiUtils/config"
 	"github.com/go-redis/redis/v8"
+	"github.com/mfei/mfeiutils/common/MFei"
+	"github.com/mfei/mfeiutils/config"
 	"golang.org/x/net/context"
 	"time"
 )

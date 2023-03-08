@@ -1,6 +1,6 @@
 package sun
 
-import "github.com/MFei/MFeiUtils/utils/dbutils/redisUtil"
+import "github.com/mfei/mfeiutils/utils/dbutils/redisUtil"
 
 var (
 	Redis *redisUtil.RedisPlay
