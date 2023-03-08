@@ -1,4 +1,4 @@
-module github.com/MFei/MFeiUtils
+module github.com/MFei4/MFeiUtils
 
 go 1.19
 
